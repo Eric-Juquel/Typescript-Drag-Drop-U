@@ -1,2 +1,3 @@
 # Typescript-Drag-Drop-U
-Typescript Exercice
+Typescript Exercice including Es modules and webpack
+
